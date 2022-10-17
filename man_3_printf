@@ -1,4 +1,4 @@
-INTF "1" "16 OCTOBER 2022" "0x11. C - printf"
+NTF "1" "16 OCTOBER 2022" "0x11. C - printf"
 .SH NAME
 _printf - print data according to a format
 .SH SYNOPSIS
